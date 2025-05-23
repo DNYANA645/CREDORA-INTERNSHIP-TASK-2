@@ -4,7 +4,7 @@ This project is part of the **Data Science Internship** at **Credora**, focused 
 
 ---
 
-## 📌 Project Overview
+## 📌 Task Overview
 
 This notebook performs EDA on the Titanic dataset to uncover key patterns related to passenger survival. The goal is to demonstrate foundational data science skills such as preprocessing, visualization, and insight extraction.
 
@@ -42,9 +42,9 @@ This notebook performs EDA on the Titanic dataset to uncover key patterns relate
 
 ## 🚀 How to Run
 
-1. Open [EDA_Titanic.ipynb](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2/blob/main/CREDORA_TASK_2.ipynb)] in **Jupyter Notebook** or **Google Colab**
+1. Open [EDA_Titanic.ipynb](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2/blob/main/CREDORA_TASK_2.ipynb) in **Jupyter Notebook** or **Google Colab**
 2. Run all cells to explore the analysis and visualizations
-3. Review [Titanic_EDA_Report.pdf](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2/blob/main/REPORT%20TASK_2%20CREDORA%20BY%20DNYANESH.pdf)] for a clean summary of results
+3. Review [Titanic_EDA_Report.pdf](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2/blob/main/REPORT%20TASK_2%20CREDORA%20BY%20DNYANESH.pdf) for a clean summary of results
 
 ---
 
