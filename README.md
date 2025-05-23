@@ -51,7 +51,7 @@ This notebook performs EDA on the Titanic dataset to uncover key patterns relate
 ## 🌐 Live Demo (Optional)
 
 - **Google Colab Link**: [[LINK](https://colab.research.google.com/drive/1shRvdC2hLn5SRjGvcrk-gS4WCrffWoJN#scrollTo=5dNywr88N0ju)]
-- **GitHub Repository**: [GITHUB(https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2)]
+- **GitHub Repository**: [[GITHUB](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2)]
 
 ---
 
@@ -59,7 +59,7 @@ This notebook performs EDA on the Titanic dataset to uncover key patterns relate
 
 **DNYANESH SHINDE**  
 _Data Science Intern @ Credora_  
-[LinkedIn Profile]  
+[www.linkedin.com/in/dnyanesh-shinde-622706310]  
 [GitHub Profile]
 
 ---
