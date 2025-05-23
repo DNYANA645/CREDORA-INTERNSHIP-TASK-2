@@ -50,7 +50,7 @@ This notebook performs EDA on the Titanic dataset to uncover key patterns relate
 
 ## 🌐 Live Demo (Optional)
 
-- **Google Colab Link**: [[Insert link here](https://colab.research.google.com/drive/1shRvdC2hLn5SRjGvcrk-gS4WCrffWoJN#scrollTo=5dNywr88N0ju)]
+- **Google Colab Link**: [(https://colab.research.google.com/drive/1shRvdC2hLn5SRjGvcrk-gS4WCrffWoJN#scrollTo=5dNywr88N0ju)]
 - **GitHub Repository**: [Insert link here]
 
 ---
