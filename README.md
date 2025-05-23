@@ -42,9 +42,9 @@ This notebook performs EDA on the Titanic dataset to uncover key patterns relate
 
 ## 🚀 How to Run
 
-1. Open `EDA_Titanic.ipynb` in **Jupyter Notebook** or **Google Colab**
+1. Open [EDA_Titanic.ipynb()] in **Jupyter Notebook** or **Google Colab**
 2. Run all cells to explore the analysis and visualizations
-3. Review `Titanic_EDA_Report.pdf` for a clean summary of results
+3. Review [Titanic_EDA_Report.pdf()] for a clean summary of results
 
 ---
 
@@ -59,8 +59,8 @@ This notebook performs EDA on the Titanic dataset to uncover key patterns relate
 
 **DNYANESH SHINDE**  
 _Data Science Intern @ Credora_  
-[www.linkedin.com/in/dnyanesh-shinde-622706310]  
-[GitHub Profile]
+[[LINKDIN](www.linkedin.com/in/dnyanesh-shinde-622706310)]  
+[GitHub Profile(https://github.com/DNYANA645)]
 
 ---
 
