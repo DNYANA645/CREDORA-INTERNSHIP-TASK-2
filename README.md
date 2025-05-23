@@ -42,13 +42,13 @@ This notebook performs EDA on the Titanic dataset to uncover key patterns relate
 
 ## 🚀 How to Run
 
-1. Open [EDA_Titanic.ipynb()] in **Jupyter Notebook** or **Google Colab**
+1. Open [EDA_Titanic.ipynb](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2/blob/main/CREDORA_TASK_2.ipynb)] in **Jupyter Notebook** or **Google Colab**
 2. Run all cells to explore the analysis and visualizations
-3. Review [Titanic_EDA_Report.pdf(https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2/blob/main/REPORT%20TASK_2%20CREDORA%20BY%20DNYANESH.pdf)] for a clean summary of results
+3. Review [Titanic_EDA_Report.pdf](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2/blob/main/REPORT%20TASK_2%20CREDORA%20BY%20DNYANESH.pdf)] for a clean summary of results
 
 ---
 
-## 🌐 Live Demo (Optional)
+## 🌐 Live Demo 
 
 - **Google Colab Link**: [[LINK](https://colab.research.google.com/drive/1shRvdC2hLn5SRjGvcrk-gS4WCrffWoJN#scrollTo=5dNywr88N0ju)]
 - **GitHub Repository**: [[GITHUB](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-2)]
